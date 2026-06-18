@@ -1,6 +1,6 @@
 # Customer Sales Data Cleaning and EDA
 
-## Project Overview
+## Project Overview 
 This project focuses on cleaning and performing Exploratory Data Analysis (EDA) on a messy customer sales dataset. The goal is to transform raw, inconsistent data into a clean, structured format suitable for further analysis and to extract valuable insights into customer purchasing behavior and sales patterns.
 
 ## Table of Contents
